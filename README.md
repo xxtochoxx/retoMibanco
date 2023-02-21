@@ -1,9 +1,13 @@
 # retoMibanco
 
 1.-Instale Jenkis local desde el siguiente comando ( previamente se debe tener instalado docker)
+	
 	1.1 comando usado docker pull jenkis/jenkis:alpine
+	
 	1.2 levantando imagen:
-		docker run -d --name=jenkins -p 8080:8080 -p 50000:50000 -v jenkins_home:/var/jenkins_home jenkins/jenkins:alpine
+	
+		1.2.1-docker run -d --name=jenkins -p 8080:8080 -p 50000:50000 -v jenkins_home:/var/jenkins_home jenkins/jenkins:alpine
+		
 	1.3 configurar ramas remotas desde localhost ( error )
 
 2.-Clonar el api , con las credenciales publicas de Marvel cominc.
