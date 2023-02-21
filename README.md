@@ -21,8 +21,11 @@
 	
 	
 5.-Ejemplo de como se visualiza el pipeline2
+
 <img width="805" alt="Captura de Pantalla 2023-02-21 a la(s) 11 54 38" src="https://user-images.githubusercontent.com/7839541/220409970-cc38ade9-cd55-4689-a3e3-0c4304e7e42a.png">
+
 6.-Ejemplo de como se visualiza el pipeline1
+
 <img width="509" alt="Captura de Pantalla 2023-02-21 a la(s) 11 57 47" src="https://user-images.githubusercontent.com/7839541/220410550-245f8aca-b391-425c-b139-3b6ec0cfec90.png">
 
 He tenido que levantar un jenkis local , localhost pero por reglas de github no logre a depurar el error de conexión desde mi localhost hacia github, posible error de firewall de mi laptop.
